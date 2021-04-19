@@ -1,0 +1,14 @@
+2021-04-14 22:14:59,166 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-14 22:14:59,169 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-14 22:14:59,171 DEBUG log_decorator.py @log -> function create_presence_msg ran with args: ('User1',) and kwargs: {}. /From module: __main__
+2021-04-14 22:14:59,171 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-14 22:14:59,172 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50521), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-14 22:14:59,175 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-14 22:14:59,175 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-14 22:14:59,194 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50521), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-14 22:14:59,196 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50521), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-14 22:14:59,196 DEBUG client.py Процессы запущены
+2021-04-14 22:15:06,042 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50521), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-14 22:15:25,294 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618427725, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-14 22:15:25,295 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-14 22:15:25,301 INFO client.py Получено сообщение от пользователя User1: Привет!
