@@ -1,0 +1,290 @@
+2021-04-17 17:55:18,698 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-04-17 17:56:56,511 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-04-17 17:58:08,506 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-04-17 17:58:26,480 DEBUG client.py Сформировано presence сообщение для пользователя account_name
+2021-04-17 17:58:32,877 DEBUG client.py Сформировано presence сообщение для пользователя account_name
+2021-04-17 17:59:37,700 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 17:59:58,932 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:01:22,642 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:01:49,537 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:05:38,190 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:07:07,808 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:19:32,651 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:19:58,850 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:21:42,885 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 18:21:42,888 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 18:21:42,890 DEBUG log_decorator.py @log -> function create_presence_msg ran with args: ('User1',) and kwargs: {}. /From module: __main__
+2021-04-17 18:21:42,891 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 18:21:42,891 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50686), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 18:21:42,897 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 18:21:42,897 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 18:21:42,898 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50686), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 18:21:42,899 DEBUG client.py Процессы запущены
+2021-04-17 18:21:42,899 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50686), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 18:23:00,590 DEBUG client.py Сформировано presence сообщение для пользователя test_user
+2021-04-17 18:24:27,701 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 18:24:27,705 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 18:24:27,707 DEBUG log_decorator.py @log -> function create_presence_msg ran with args: ('User1',) and kwargs: {}. /From module: __main__
+2021-04-17 18:24:27,708 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 18:24:27,708 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50693), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 18:24:27,909 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 18:24:27,910 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 18:24:27,912 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50693), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 18:24:27,913 DEBUG client.py Процессы запущены
+2021-04-17 18:24:27,913 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50693), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 18:52:08,742 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 18:52:08,745 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 18:52:08,749 DEBUG log_decorator.py @log -> function make_presence_msg ran with args: ('User1',) and kwargs: {}. /From module: __main__
+2021-04-17 18:55:10,176 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 18:55:10,180 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 18:59:38,849 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:00:38,263 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:01:48,803 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:01:48,809 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:01:48,812 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:01:48,813 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50824), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:01:48,815 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 19:01:48,815 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 19:01:48,817 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50824), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:01:48,818 DEBUG client.py Процессы запущены
+2021-04-17 19:01:48,818 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50824), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:02:09,586 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:02:09,591 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:02:09,594 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:02:09,595 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:02:09,597 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 19:02:09,597 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 19:02:09,599 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:02:09,599 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:02:09,600 DEBUG client.py Процессы запущены
+2021-04-17 19:02:17,126 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50829), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:02:28,313 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618675348, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-17 19:02:28,314 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 19:02:28,415 INFO client.py Получено сообщение от пользователя User1: Привет!
+2021-04-17 19:08:53,512 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:08:53,517 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:08:53,520 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:08:53,520 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50848), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:08:53,522 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 19:08:53,522 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 19:08:53,524 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50848), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:08:53,529 DEBUG client.py Процессы запущены
+2021-04-17 19:11:25,062 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:11:25,067 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:11:25,070 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:11:25,071 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50858), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:11:25,273 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:11:25,273 INFO client.py Установлено соединение с сервером. Ответ сервера: None
+2021-04-17 19:11:25,275 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50858), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:11:25,276 DEBUG client.py Процессы запущены
+2021-04-17 19:11:25,277 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:11:37,443 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:11:37,447 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:11:37,449 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:11:37,450 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50863), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:11:37,652 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 19:11:37,652 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 19:11:37,654 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50863), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:11:37,655 DEBUG client.py Процессы запущены
+2021-04-17 19:11:42,425 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50863), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:11:50,070 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618675910, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-17 19:11:50,071 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 19:11:50,255 INFO client.py Получено сообщение от пользователя User1: Привет!
+2021-04-17 19:27:49,836 DEBUG log_decorator.py @log -> function make_exit_message ran with args: ('User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 19:27:49,836 DEBUG client.py Сформировано quit сообщение для пользователя User1
+2021-04-17 19:27:49,837 INFO client.py Завершение работы по команде пользователя
+2021-04-17 19:27:49,878 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:28:29,104 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:28:29,109 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:28:29,113 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:28:29,113 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50907), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:56:38,760 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:56:38,760 INFO client.py Установлено соединение с сервером. Ответ сервера: None
+2021-04-17 19:56:38,765 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50907), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:56:38,765 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:56:38,781 DEBUG client.py Процессы запущены
+2021-04-17 19:56:47,980 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:56:47,983 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:56:47,986 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:56:47,987 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50994), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:58:57,477 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:58:57,477 INFO client.py Установлено соединение с сервером. Ответ сервера: None
+2021-04-17 19:58:57,495 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50994), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 19:58:57,495 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 19:58:57,505 DEBUG client.py Процессы запущены
+2021-04-17 19:59:02,564 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 19:59:02,567 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 19:59:02,570 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 19:59:02,571 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51063), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:00:57,494 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:00:57,495 INFO client.py Установлено соединение с сервером. Ответ сервера: None
+2021-04-17 20:00:57,522 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51063), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:00:57,523 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:00:57,524 DEBUG client.py Процессы запущены
+2021-04-17 20:01:03,715 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:01:03,719 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:01:03,722 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:01:03,723 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51079), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:01:03,929 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:01:03,929 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:01:03,931 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51079), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:01:03,932 DEBUG client.py Процессы запущены
+2021-04-17 20:04:41,801 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:04:41,805 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:04:41,807 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:04:41,808 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51107), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:05:20,793 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:05:20,794 INFO client.py Установлено соединение с сервером. Ответ сервера: None
+2021-04-17 20:05:20,805 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51107), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:05:20,806 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:05:20,806 DEBUG client.py Процессы запущены
+2021-04-17 20:08:58,030 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:08:58,034 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:08:58,036 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:08:58,037 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51120), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:08:58,039 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:08:58,039 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:08:58,040 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51120), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:08:58,041 DEBUG client.py Процессы запущены
+2021-04-17 20:09:23,491 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51120), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:09:34,300 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618679374, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-17 20:09:34,301 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 20:09:34,447 INFO client.py Получено сообщение от пользователя User1: Привет!
+2021-04-17 20:24:08,311 DEBUG log_decorator.py @log -> function make_exit_message ran with args: ('User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:24:08,312 DEBUG client.py Сформировано quit сообщение для пользователя User1
+2021-04-17 20:24:08,312 INFO client.py Завершение работы по команде пользователя
+2021-04-17 20:24:08,443 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:24:32,676 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:24:32,681 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:24:32,684 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:24:32,685 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51169), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:24:32,686 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:24:32,687 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:24:32,688 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51169), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:24:32,689 DEBUG client.py Процессы запущены
+2021-04-17 20:27:01,035 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:27:01,039 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:27:01,043 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:27:01,044 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51179), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:27:12,664 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:27:12,668 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:27:12,671 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:27:12,676 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51180), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:28:32,697 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:28:32,698 INFO client.py Установлено соединение с сервером. Ответ сервера: None
+2021-04-17 20:28:32,713 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51180), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:28:32,713 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:28:32,723 DEBUG client.py Процессы запущены
+2021-04-17 20:28:36,620 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:28:36,625 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:28:36,628 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:28:36,629 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51183), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:28:36,839 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:28:36,840 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:28:36,843 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51183), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:28:36,856 DEBUG client.py Процессы запущены
+2021-04-17 20:29:22,148 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:29:26,050 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:29:26,053 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:29:26,056 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:29:26,057 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51189), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:29:26,058 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:29:26,059 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:29:26,060 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51189), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:29:26,061 DEBUG client.py Процессы запущены
+2021-04-17 20:29:52,742 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:29:55,703 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:29:55,707 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:29:55,709 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:29:55,710 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51192), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:29:55,911 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:29:55,912 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:29:55,914 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51192), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:29:55,914 DEBUG client.py Процессы запущены
+2021-04-17 20:36:02,399 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:36:09,577 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:36:09,580 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:36:09,582 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:36:09,583 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51225), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:36:09,785 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:36:09,785 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:36:09,790 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51225), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:36:09,794 DEBUG client.py Процессы запущены
+2021-04-17 20:40:43,799 CRITICAL client.py Потеряно соединение с сервером.
+2021-04-17 20:40:48,410 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:40:48,414 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:40:48,416 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:40:48,417 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51238), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:40:48,619 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:40:48,620 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:40:48,621 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51238), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:40:48,622 DEBUG client.py Процессы запущены
+2021-04-17 20:40:55,882 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51238), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:41:05,747 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618681265, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-17 20:41:05,748 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 20:41:05,821 INFO client.py Получено сообщение от пользователя User1: Привет!
+2021-04-17 20:41:52,804 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:41:52,808 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:41:52,811 DEBUG log_decorator.py @log -> function make_presence_msg ran with args: ('User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:41:52,811 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:41:52,812 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51247), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:41:53,013 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:41:53,014 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:41:53,016 DEBUG client.py Процессы запущены
+2021-04-17 20:41:53,016 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51247), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:42:12,842 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:42:12,845 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:42:12,847 DEBUG log_decorator.py @log -> function make_presence_msg ran with args: ('User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:42:12,847 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:42:12,848 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51249), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:42:13,050 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:42:13,050 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:42:13,052 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51249), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:42:13,052 DEBUG client.py Процессы запущены
+2021-04-17 20:42:17,568 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51249), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:42:24,580 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618681344, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-17 20:42:24,580 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 20:42:24,652 INFO client.py Получено сообщение от пользователя User1: Привет!
+2021-04-17 20:43:11,925 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:43:11,929 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:43:11,932 DEBUG log_decorator.py @log -> function make_presence_msg ran with args: ('User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:43:11,933 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:43:11,933 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51254), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:43:12,136 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:43:12,136 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:43:12,138 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51254), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:43:12,139 DEBUG client.py Процессы запущены
+2021-04-17 20:43:12,140 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51254), raddr=('127.0.0.1', 5555)>, 'User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:43:26,282 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51254), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:43:48,413 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618681428, 'from': 'User1', 'to': 'User1', 'message_text': 'Привет!'}
+2021-04-17 20:43:48,414 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 20:43:48,568 INFO client.py Получено сообщение от пользователя User1: Привет!
+2021-04-17 20:44:37,488 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51254), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:45:01,157 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618681501, 'from': 'User1', 'to': 'User1', 'message_text': 'Кусь!'}
+2021-04-17 20:45:01,157 INFO client.py Отправлено сообщение для пользователя User1
+2021-04-17 20:45:01,169 INFO client.py Получено сообщение от пользователя User1: Кусь!
+2021-04-17 20:45:32,660 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51254), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:12,983 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:53:12,987 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User1
+2021-04-17 20:53:12,989 DEBUG log_decorator.py @log -> function make_presence_msg ran with args: ('User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:12,989 DEBUG client.py Сформировано presence сообщение для пользователя User1
+2021-04-17 20:53:12,990 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51285), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:13,191 DEBUG client.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:53:13,192 INFO client.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:53:13,193 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51285), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:13,195 DEBUG client.py Процессы запущены
+2021-04-17 20:53:13,195 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51285), raddr=('127.0.0.1', 5555)>, 'User1', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:15,115 DEBUG log_decorator.py @log -> function parse_cmd_arguments ran with args: () and kwargs: {}. /From module: __main__
+2021-04-17 20:53:15,119 INFO client2.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 5555, имя пользователя: User2
+2021-04-17 20:53:15,122 DEBUG log_decorator.py @log -> function make_presence_msg ran with args: ('User2', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:15,122 DEBUG client2.py Сформировано presence сообщение для пользователя User2
+2021-04-17 20:53:15,123 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51286), raddr=('127.0.0.1', 5555)>, 'User2') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:15,323 DEBUG client2.py Получено приветственное сообщение от сервера: 200 OK
+2021-04-17 20:53:15,323 INFO client2.py Установлено соединение с сервером. Ответ сервера: 200 OK
+2021-04-17 20:53:15,325 DEBUG log_decorator.py @log -> function parse_server_msg ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51286), raddr=('127.0.0.1', 5555)>, 'User2') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:15,325 DEBUG client2.py Процессы запущены
+2021-04-17 20:53:15,326 DEBUG log_decorator.py @log -> function user_controls_cmd ran with args: (<socket.socket fd=220, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51286), raddr=('127.0.0.1', 5555)>, 'User2', 'password') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:22,302 DEBUG log_decorator.py @log -> function create_client_msg ran with args: (<socket.socket fd=224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51285), raddr=('127.0.0.1', 5555)>, 'User1') and kwargs: {}. /From module: __main__
+2021-04-17 20:53:38,103 DEBUG client.py Сформировано сообщение: {'action': 'message', 'time': 1618682018, 'from': 'User1', 'to': 'User2', 'message_text': 'Привет, User2!'}
+2021-04-17 20:53:38,104 INFO client.py Отправлено сообщение для пользователя User2
+2021-04-17 20:53:38,128 INFO client2.py Получено сообщение от пользователя User1: Привет, User2!
